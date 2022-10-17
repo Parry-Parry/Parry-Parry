@@ -1,8 +1,7 @@
 - 👋 Hello, I am Mr Parry
-- 👀 Working with probabilistic models to improve training using aggregate data
+- 👀 Working with probabilistic models to improve inference on individual instances when training with aggregate data
 - 🌱 I’m currently learning Q
-- 💞️ I’m looking to collaborate on NLP projects
-- 📫 Reach me at my website 
+- 📫 Reach me at [my website](https://parry-parry.github.io/)
 
 <!---
 Parry-Parry/Parry-Parry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
