@@ -1,5 +1,5 @@
 - 👋 Hello, I am Mr Parry
-- 👀 Working with probabilistic models to improve inference on individual instances when training with aggregate data
+- 👀 Working on adversarial learning & improving training speed in neural networks
 - 🌱 I’m currently learning Q
 - 📫 Reach me at [my website](https://parry-parry.github.io/)
 
