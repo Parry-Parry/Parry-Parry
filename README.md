@@ -1,6 +1,6 @@
 - 👋 Hello, I am a PhD Candidate working with the Information Retrieval group at the University of Glasgow
 - 👀 Working on adversarial learning & improving training speed in neural networks
-- 🌱 I’m currently learning Q
+- 🌱 I’m currently learning Q & Rust
 - 📫 Reach me at [my website](https://parry-parry.github.io/)
 
 <!---
